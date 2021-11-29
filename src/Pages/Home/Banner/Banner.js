@@ -1,8 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
 import logo from '../../../../src/images/Raisa Nowreen Prome_resume.pdf';
-import pic1 from '../../../images/p1.png';
-import 'animate.css';
 import './Banner.css'
 import MyProjects from '../../MyProjects/MyProjects';
 
