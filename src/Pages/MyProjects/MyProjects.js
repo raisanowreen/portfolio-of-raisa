@@ -10,7 +10,6 @@ const MyProjects = (props) => {
           <div class="card-body">
             <h5 class="card-title">{projectName}</h5>
             <Link to={`/projects/${id}`}><button type="button" class="btn btn-secondary">Details</button></Link>
-    
           </div>
        
       </div>
