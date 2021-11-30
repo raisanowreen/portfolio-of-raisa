@@ -12,7 +12,7 @@ const MyProjects = (props) => {
             <Link to={`/projects/${id}`}><button type="button" class="btn btn-secondary">Details</button></Link>
     
           </div>
-       >
+       
       </div>
       
         </div>

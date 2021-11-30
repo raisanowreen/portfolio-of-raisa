@@ -49,8 +49,9 @@ const Banner = () => {
 
    
     <div className="sticky-top">
-    <button type="button" class="btn btn-secondary"><i class="fab fa-github ps-5 fs-2"></i> <i class="fab fa-linkedin-in pt-2 pb-2 ps-3 pe-3 fs-2"></i> <i class="fas fa-envelope ps-2 pe-5 fs-2"></i> </button>
-
+    <a href="http://www.linkedin.com/in/raisanowreen"><i class="fab fa-github ps-5 fs-2"></i></a> 
+    <a href="https://github.com/raisanowreen"><i class="fab fa-linkedin-in pt-2 pb-2 ps-3 pe-3 fs-2"></i></a> 
+    <a href="mailto:raisa.nowreen1@gmail.com"><i class="fas fa-envelope ps-2 pe-5 fs-2"></i></a>
     </div>
 
   </div>
